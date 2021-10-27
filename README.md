@@ -1,5 +1,14 @@
 # Logan G. Blevins
 
+The following project is a simple clone of the very popular [ForeFlight](https://foreflight.com) app.
+Prior commit history, along with secrets to access the remote endpoint, have been stripped for security in this public repository.
+
+## Features
+
+- Displays current (METAR) and forecasted (TAF) weather for requested airport identifier
+- Persists previously requested airports and their respective weather for offline viewing
+- Automatically refreshes weather in background for all prior requested airports on a regular interval
+
 ## Building
 
 - Select Xcode 13 (13A233) toolchain
