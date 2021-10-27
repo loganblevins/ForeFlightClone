@@ -1,0 +1,54 @@
+{
+  "text": "KPWM 210251Z 00000KT 10SM CLR 13/12 A3043 RMK AO2 SLP304 T01280122 51004",
+  "ident": "kpwm",
+  "dateIssued": "2021-09-21T02:51:00+0000",
+  "lat": 43.64564403491651,
+  "lon": -70.30861605624689,
+  "elevationFt": 76.0,
+  "tempC": 13.0,
+  "dewpointC": 12.0,
+  "pressureHg": 30.43,
+  "densityAltitudeFt": -528,
+  "relativeHumidity": 94,
+  "flightRules": "vfr",
+  "cloudLayers": [
+    {
+      "coverage": "clr",
+      "altitudeFt": 0.0,
+      "ceiling": false
+    }
+  ],
+  "cloudLayersV2": [
+    {
+      "coverage": "clr",
+      "altitudeFt": 0.0,
+      "ceiling": false
+    }
+  ],
+  "weather": [],
+  "visibility": {
+    "distanceSm": 10.0,
+    "prevailingVisSm": 10.0
+  },
+  "wind": {
+    "speedKts": 0.0,
+    "direction": 0,
+    "from": 0,
+    "variable": false
+  },
+  "remarks": {
+    "precipitationDiscriminator": true,
+    "humanObserver": false,
+    "seaLevelPressure": 1030.4,
+    "pressureTendancyRate": 0.4,
+    "pressureTendancyCharacteristics": "Increasing, then steady, or increasing then increasing more slowly.",
+    "temperature": 12.8,
+    "dewpoint": 12.2,
+    "visibility": {},
+    "sensoryStatus": [],
+    "lightning": [],
+    "weatherBeginEnds": {},
+    "clouds": [],
+    "obscuringLayers": []
+  }
+}

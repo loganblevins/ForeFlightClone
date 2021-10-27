@@ -1,0 +1,94 @@
+{
+  "text": "KPWM 202320Z 2100/2124 17004KT P6SM SKC FM211300 16006KT P6SM SCT250",
+  "ident": "kpwm",
+  "dateIssued": "2021-09-20T23:20:00+0000",
+  "period": {
+    "dateStart": "2021-09-21T00:00:00+0000",
+    "dateEnd": "2021-09-22T00:00:00+0000"
+  },
+  "lat": 43.64564403491651,
+  "lon": -70.30861605624689,
+  "elevationFt": 76.0,
+  "conditions": [
+    {
+      "text": "202320Z 2100/2124 17004KT P6SM SKC",
+      "dateIssued": "2021-09-20T23:20:00+0000",
+      "lat": 43.64564403491651,
+      "lon": -70.30861605624689,
+      "elevationFt": 76.0,
+      "relativeHumidity": 100,
+      "flightRules": "vfr",
+      "cloudLayers": [
+        {
+          "coverage": "skc",
+          "altitudeFt": 0.0,
+          "ceiling": false
+        }
+      ],
+      "cloudLayersV2": [
+        {
+          "coverage": "skc",
+          "altitudeFt": 0.0,
+          "ceiling": false
+        }
+      ],
+      "weather": [],
+      "visibility": {
+        "distanceSm": 6.0,
+        "distanceQualifier": 1,
+        "prevailingVisSm": 6.0,
+        "prevailingVisDistanceQualifier": 1
+      },
+      "wind": {
+        "speedKts": 4.0,
+        "direction": 170,
+        "from": 170,
+        "variable": false
+      },
+      "period": {
+        "dateStart": "2021-09-21T00:00:00+0000",
+        "dateEnd": "2021-09-21T13:00:00+0000"
+      }
+    },
+    {
+      "text": "FM211300 16006KT P6SM SCT250",
+      "dateIssued": "2021-09-21T13:00:00+0000",
+      "lat": 43.64564403491651,
+      "lon": -70.30861605624689,
+      "elevationFt": 76.0,
+      "relativeHumidity": 100,
+      "flightRules": "vfr",
+      "cloudLayers": [
+        {
+          "coverage": "sct",
+          "altitudeFt": 25000.0,
+          "ceiling": false
+        }
+      ],
+      "cloudLayersV2": [
+        {
+          "coverage": "sct",
+          "altitudeFt": 25000.0,
+          "ceiling": false
+        }
+      ],
+      "weather": [],
+      "visibility": {
+        "distanceSm": 6.0,
+        "distanceQualifier": 1,
+        "prevailingVisSm": 6.0,
+        "prevailingVisDistanceQualifier": 1
+      },
+      "wind": {
+        "speedKts": 6.0,
+        "direction": 160,
+        "from": 160,
+        "variable": false
+      },
+      "period": {
+        "dateStart": "2021-09-21T13:00:00+0000",
+        "dateEnd": "2021-09-22T00:00:00+0000"
+      }
+    }
+  ]
+}
