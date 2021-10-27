@@ -3,6 +3,8 @@
 The following project is a simple clone of the very popular [ForeFlight](https://foreflight.com) app.
 Prior commit history, along with secrets to access the remote endpoint, have been stripped for security in this public repository.
 
+![](https://github.com/loganblevins/ForeFlightClone/blob/master/iPhoneScreenshots/IMG_6304.PNG)
+![](https://github.com/loganblevins/ForeFlightClone/blob/master/iPhoneScreenshots/IMG_6305.PNG)
 ## Features
 
 - Displays current (METAR) and forecasted (TAF) weather for requested airport identifier
