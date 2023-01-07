@@ -15,7 +15,7 @@ struct Constants {
     static let noDataMessage = "Unavailable"
     
     struct Secret {
-        static let headerKey = "SECRET!"
-        static let headerValue = "I bet you'd like to know right?"
+        static let headerKey = "ff-coding-exercise"
+        static let headerValue = "1"
     }
 }
